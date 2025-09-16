@@ -2,7 +2,7 @@ I share my real time proeject (Figma design).
 
 Link: https://www.figma.com/design/DYT1Lzrm6q8Vz7jqBE8sl7/Shoppe---eCommerce-Clothing-Fashion-Store-Multi-Purpose-UI-Mobile-App-Design--Community-?node-id=0-4135&t=MfMGNobb5w3thu4E-1
 
-Describtion: 
+Description: 
 
 Project: Shoppe — Ecommerce Clothing & Fashion Store UI / Community Mobile App
 
